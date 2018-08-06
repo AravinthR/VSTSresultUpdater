@@ -9,4 +9,6 @@ The reason behind this implementation is to reduce the human internenvtion durin
 3. Update the result for that particular run. 
 4. Add attachments to the particular run.
 5. If the test case status is marked as FAILED, it creates a bug and links the test case run to the Bug.
+
+
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=
