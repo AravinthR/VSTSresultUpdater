@@ -19,10 +19,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 What things you need to install the software and how to install them
 
-```
-VBScript - Available as part of Windows OS
-[Microsoft VSTS API reference](https://docs.microsoft.com/en-us/rest/api/azure/devops/)
-```
+1. VBScript - Available as part of Windows OS
+2. [Microsoft VSTS API reference](https://docs.microsoft.com/en-us/rest/api/azure/devops/)
+
 
 ## Contributing
 
